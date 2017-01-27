@@ -1,0 +1,3 @@
+[submodule "Eventus-iOS"]
+	path = Eventus-iOS
+	url = https://github.com/kennyhong/Eventus-iOS.git
