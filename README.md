@@ -1,2 +1,18 @@
 # Eventus
-The COMP4350 Project
+
+This is the main project repository. To access the relevant submodules, you can find them here:
+
+Android: https://github.com/kennyhong/Eventus-Android.git
+iOS: https://github.com/kennyhong/Eventus-iOS.git
+Web: https://github.com/kennyhong/Eventus-Web.git
+
+    NOTE: `git pull` will not update the submodule, only it's pointer! Please use `git submodule update --init` after a pull to update the submodule code inside the main repository folder
+    
+If you want to make it easy, just create a shortcut `git config --global alias.update '!git pull && git submodule update --init --recursive'` and this will pull AND update when you use `git update`
+afterwards is as simple as doing `git submodule foreach git pull` to pull each of the code of each of the submodules, since they are their own repositories.
+
+# Sources (Please read if you have a moment):
+
+https://gist.github.com/gitaarik/8735255
+
+http://stackoverflow.com/questions/5828324/update-git-submodule-to-latest-commit-on-origin/5828396#5828396
