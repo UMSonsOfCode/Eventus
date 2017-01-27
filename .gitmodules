@@ -1,3 +1,9 @@
 [submodule "Eventus-iOS"]
 	path = Eventus-iOS
 	url = https://github.com/kennyhong/Eventus-iOS.git
+[submodule "Eventus-Android"]
+	path = Eventus-Android
+	url = https://github.com/kennyhong/Eventus-Android.git
+[submodule "Eventus-Web"]
+	path = Eventus-Web
+	url = https://github.com/kennyhong/Eventus-Web.git
