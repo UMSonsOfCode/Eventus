@@ -7,3 +7,6 @@
 [submodule "Eventus-Web"]
 	path = Eventus-Web
 	url = https://github.com/kennyhong/Eventus-Web.git
+[submodule "Eventus-Server"]
+	path = Eventus-Server
+	url = https://github.com/kennyhong/Eventus-Server.git
