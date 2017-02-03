@@ -1,11 +1,23 @@
 # Eventus
 
+# Eventus Project Managing
+
+Kanban Board: https://github.com/kennyhong/Eventus/projects
+
+Google Drive: https://drive.google.com/drive/folders/0B4BZ-hWf1OVHcGhiUEdtVGZxRmM?usp=sharing
+
+API-Wiki: https://github.com/kennyhong/Eventus-Server/wiki
+
 # Submodules
 
 This is the main project repository. To access the relevant submodules, you can find them here:
 
+Server: https://github.com/kennyhong/Eventus-Server.git
+
 Android: https://github.com/kennyhong/Eventus-Android.git
+
 iOS: https://github.com/kennyhong/Eventus-iOS.git
+
 Web: https://github.com/kennyhong/Eventus-Web.git
 
     NOTE: `git pull` will not update the submodule, only it's pointer! Please use `git submodule update --init` after a pull to update the submodule code inside the main repository folder
