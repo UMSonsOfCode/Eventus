@@ -8,6 +8,18 @@ Google Drive: https://drive.google.com/drive/folders/0B4BZ-hWf1OVHcGhiUEdtVGZxRm
 
 API-Wiki: https://github.com/kennyhong/Eventus-Server/wiki
 
+# Code Custodians
+
+Server: Paul/Jeff
+
+iOS: Kieran
+
+Android: Eric/Bailey
+
+Web: Mitchell/Marvin
+
+DevOps: Kenny
+
 # Submodules
 
 This is the main project repository. To access the relevant submodules, you can find them here:
