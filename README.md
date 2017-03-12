@@ -22,9 +22,10 @@ DevOps: Kenny
 
 # Submodules
 
-This is the main project repository. To access the relevant submodules, you can find them here:
+This is the main project repository. To access the relevant submodules and their relevant documentation, you can find them here:
 
-Server: https://github.com/kennyhong/Eventus-Server.git
+Server: https://github.com/kennyhong/Eventus-Server.git  
+Server Wiki: https://github.com/kennyhong/Eventus-Server/wiki (API, JSON spec, etc.)  
 
 Android: https://github.com/kennyhong/Eventus-Android.git
 
