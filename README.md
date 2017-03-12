@@ -1,5 +1,13 @@
 # Eventus
 
+# Eventus Important Links and Notes
+
+Laravel Server Link: http://eventus.us-west-2.elasticbeanstalk.com/ (Laravel Project Docs)
+
+Api Link: http://eventus.us-west-2.elasticbeanstalk.com/api
+
+Eventus Web Project Link: myeventus.me
+
 # Eventus Project Managing
 
 Kanban Board: https://github.com/kennyhong/Eventus/projects
