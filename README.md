@@ -16,6 +16,10 @@ Google Drive: https://drive.google.com/drive/folders/0B4BZ-hWf1OVHcGhiUEdtVGZxRm
 
 API-Wiki: https://github.com/kennyhong/Eventus-Server/wiki
 
+# How the Backend Works
+
+Each iteration of the Eventus Server will deployed using `eb deploy` with Amazon's Elastic Beanstalk. This makes deploying the app easy and the api is functional within minutes.
+
 # Code Custodians
 
 Server: Paul/Jeff
