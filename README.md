@@ -6,7 +6,7 @@ Laravel Server Link: http://eventus.us-west-2.elasticbeanstalk.com/ (Laravel Pro
 
 Api Link: http://eventus.us-west-2.elasticbeanstalk.com/api
 
-Eventus Web Project Link: http://salty-citadel-11826.herokuapp.com/home
+Eventus Web Project Link: http://salty-citadel-11826.herokuapp.com
 
 # Eventus Project Managing
 
